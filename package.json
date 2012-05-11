@@ -1,0 +1,9 @@
+{
+    "name" : "toy-company-cluster-example",
+    "verison" : "0.0.0",
+    "dependencies" : {
+        "deck" : "~0.0.4",
+        "ecstatic" : "~0.1.6",
+        "seaport" : "~0.6.8"
+    }
+}
