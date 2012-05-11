@@ -1,0 +1,14 @@
+{
+    "franklin" : {
+        "number" : 4,
+        "command" : "node franklin.js"
+    },
+    "penn" : {
+        "number" : 1,
+        "command" : "node penn.js"
+    },
+    "bell" : {
+        "number" : 5,
+        "command" : "node bell.js"
+    }
+}
